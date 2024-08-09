@@ -1,5 +1,7 @@
-# password-generator-javascript
+# QuestMist: Dream Journal | Log, Interpret & Share Dreams
 
-The Customized Password Generator is a simple project developed using HTML, CSS, and JavaScript.
-It is a simple interesting password generator mini project.
-When you click on Generate password button, then you will see different passwords at each click
+Explore the meaning of your dreams with QuestMist! Free, private dream journal & community to write, analyze, and share dreams. Start your journey today!
+
+Explore the meaning of your dream , Use Questmist's [AI Dream Interpreter](https://questmist.com/ai-dream-interpretation)
+For more information, visit [Questmist.com](https://www.questmist.com).
+
